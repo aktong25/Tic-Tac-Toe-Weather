@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic Tac Toe - Weather</string>
+    <string name="Lightning">Lightning</string>
+    <string name="Clouds">Clouds</string>
+</resources>
